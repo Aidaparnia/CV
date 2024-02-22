@@ -9,4 +9,5 @@ publishDate: '2024-02-22T22:57:26.841141Z'
 publication_types:
 - article-journal
 publication: '*J Epidemiol Community Health*'
+featured: true
 ---

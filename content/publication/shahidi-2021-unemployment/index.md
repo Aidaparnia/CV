@@ -9,4 +9,5 @@ publishDate: '2024-02-22T22:57:26.914544Z'
 publication_types:
 - article-journal
 publication: '*American Journal of Epidemiology*'
+featured: true
 ---
