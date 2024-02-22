@@ -213,8 +213,8 @@ sections:
       email: a.parnia@utoronto.ca
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '43.6591996'
+        longitude: '-79.3909595'  
       contact_links:
       # Automatically link email and phone or display as text?
       autolink: true
