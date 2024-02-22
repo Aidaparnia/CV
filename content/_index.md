@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -69,12 +61,13 @@ sections:
           location: Toronto
           date_start: '2018-05-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing data
-              * Creating visualizations
-              * Writing
+        - title: CAnD 3 Fellow
+          company: Consortium on Analytics for Data-Driven Decision-Making (CAnD3)
+          company_url: ''
+          company_logo: CAnD3
+          location: Toronto
+          date_start: '2023-09-01'
+          date_end: ''
   - block: portfolio
     id: projects
     content:
