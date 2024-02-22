@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Aida Parnia
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aida
+last_name: Parnia
 
 # Status emoji
 status:
@@ -17,34 +17,37 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Toronto
+    url: https://www.sociology.utoronto.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Methods
+  - Health inequalities
+  - Migration
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Sociology
+      institution: University of Toronto
+      year: In progress
+    - course: MA in Sociology
+      institution: University of Toronto
+      year: 2021
+    - course: MPH in Epidemiology
+      institution: University of Toronto
+      year: 2016
+    - course: HBSc in Human Biology & Psychology
+      institution: University of Toronto
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -102,23 +105,20 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.ca/citations?hl=en&user=SsX55_MAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/aidaparnia
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Academic-CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research mainly focuses on how social conditions shape our health differently and how these inequalities are sustained over time. I am interested in this area because, in my perspective, health is primarily a measure of how structures of oppression work in society. These structures are complex, have many dimensions, and work in conjunction with each other. This means that when we try to understand how structures of white supremacy, heteropatriarchy, or capitalism affect our lives, the economic and social outcomes show us one way that these structures operate while health captures their total influence. Based on this idea, health seemed like a good starting point for studying these systems. I am more specifically interested in migration as an experience that shapes a particular encounter with these structures and forces us to consider all of these dynamics globally. So, I study the health of migrants.  
 {style="text-align: justify;"}
