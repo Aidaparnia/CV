@@ -1,6 +1,6 @@
 ---
 title: CAnD3 Fellowship projects
-summary: Policy briefs and replication projects.
+summary: Summary of activities as a fellow in Consortium on Analytics for Data-Driven Decision-Making (CAnD3)
 tags:
   - Methods
 date: "2016-04-27T00:00:00Z"
@@ -26,4 +26,4 @@ url_video: ''
 #slides: example
 ---
 
-CAnD3 is a fellowship.
+As part of the CAnD3 fellowship, I participated in developing two policy briefs related to inclusion, diversity, equity, and access in the various policy areas. Furthermore, the fellowship provided introductory training in data analysis, visualization, and machine learning. 
