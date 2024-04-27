@@ -3,10 +3,10 @@ title: CAnD3 Fellowship projects
 summary: Policy briefs and replication projects.
 tags:
   - Methods
-date: '2024-05-01'
+date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.mcgill.ca/cand3/'
+external_link: ''
 
 image:
   caption: CAnD3 Website
