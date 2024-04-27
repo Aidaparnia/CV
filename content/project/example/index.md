@@ -10,7 +10,7 @@ date: '2024-05-01'
 external_link: 'https://www.mcgill.ca/cand3/'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: CAnD3 Website
   focal_point: Smart
 
 links:
