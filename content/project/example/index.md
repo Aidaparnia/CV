@@ -2,7 +2,8 @@
 title: CAnD3 Fellowship projects
 summary: Policy briefs and replication projects.
 tags:
-  - Health inequalities
+  - Health
+  - Methods
 date: '2024-05-01'
 
 # Optional external URL for project (replaces project detail page).
