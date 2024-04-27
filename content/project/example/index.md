@@ -2,7 +2,6 @@
 title: CAnD3 Fellowship projects
 summary: Policy briefs and replication projects.
 tags:
-  - Health
   - Methods
 date: '2024-05-01'
 
@@ -24,7 +23,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 CAnD3 is a fellowship.
