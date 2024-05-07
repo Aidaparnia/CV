@@ -55,7 +55,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Data Analyst
-          company: University of Toronto
+          company: Dalla Lana School of Public Health
           company_url: ''
           company_logo: university-of-toronto
           location: Toronto
@@ -67,6 +67,20 @@ sections:
           company_logo: CAnD3
           location: Toronto
           date_start: '2023-09-01'
+          date_end: ''
+        - title: Research Assistant
+          company: Queer & COVID Project
+          company_url: ''
+          company_logo: university-of-toronto
+          location: Toronto
+          date_start: '2022-09-01'
+          date_end: '2023-09-01'
+        - title: Teaching Assistant
+          company: University of Toronto - Sociology Department
+          company_url: ''
+          company_logo: university-of-toronto
+          location: Toronto
+          date_start: '2020-09-01'
           date_end: ''
   - block: portfolio
     id: projects

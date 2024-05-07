@@ -20,4 +20,6 @@ image:
 #slides: example
 ---
 
-As part of the CAnD3 fellowship, I participated in developing two policy briefs related to inclusion, diversity, equity, and access in the various policy areas. Furthermore, the fellowship provided introductory training in data analysis, visualization, and machine learning. 
+As part of the CAnD3 fellowship, I participated in developing two policy briefs related to inclusion, diversity, equity, and access in the healthcare and education. Furthermore, the fellowship provided introductory training in data analysis, visualization, and machine learning. 
+
+
