@@ -115,5 +115,6 @@ highlight_name: true
 ---
 
 My research mainly asks how social conditions shape population health and inequality. I focus specifically on methods that measure inequalities at a population level and the structures and systems that create them. Previously, I have published on socioeconomic, racial, migration, and gender-based inequalities in health. My PhD dissertation focuses on labour migrants and their circumstances in Canada. Primarily, I am interested in how available data shapes our understanding of the life of migrant workers and the limitations and consequences what information is collected and what is ignored. 
+
 I am passionate about teaching quantitative methods, especially demystifying how statistics work for students who do not traditionally engage in these methods and building their confidence in their ability to engage, critique, and utilize quantitative data. 
 {style="text-align: justify;"}
