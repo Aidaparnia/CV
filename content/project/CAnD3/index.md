@@ -22,4 +22,12 @@ image:
 
 As part of the CAnD3 fellowship, I participated in developing two policy briefs related to inclusion, diversity, equity, and access in the healthcare and education. Furthermore, the fellowship provided introductory training in data analysis, visualization, and machine learning. 
 
+My goals during the fellowship were the following: 
+
+- Develop intermediate expertise in Python coding language.
+- Learn methods that use machine learning and understand their utility in answering population health questions.
+- Prepare a policy brief related to one of my recent papers.
+
+{{< gallery album="<cand3>" >}}
+
 
