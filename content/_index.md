@@ -61,6 +61,13 @@ sections:
           location: Toronto
           date_start: '2018-05-01'
           date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              - Developing research questions
+              - Preparing and cleaning data
+              - Constructing statistical models and visualizations
+              - Drafting academic publication and presentations
         - title: CAnD 3 Fellow
           company: Consortium on Analytics for Data-Driven Decision-Making (CAnD3)
           company_url: ''
@@ -75,6 +82,13 @@ sections:
           location: Toronto
           date_start: '2022-09-01'
           date_end: '2023-09-01'
+          description: |2-
+              Responsibilities include:
+
+              - Preparing and cleaning survey data
+              - Developing survey weights
+              - Creating visualizations
+              - Drafting publications
         - title: Teaching Assistant
           company: University of Toronto - Sociology Department
           company_url: ''
@@ -82,6 +96,13 @@ sections:
           location: Toronto
           date_start: '2020-09-01'
           date_end: ''
+          description: |2-
+              Courses:
+              - Intermediate Data Analysis (Graduate)     
+              - Statistics for Sociologists (Graduate)     
+              - Introduction to Quantitative Methods (Undergraduate)  
+              - Sociology of Emotions (Undergraduate)  
+              - Intermediate Quantitative Methods (Undergraduate)   
   - block: portfolio
     id: projects
     content:
