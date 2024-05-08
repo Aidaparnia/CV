@@ -28,6 +28,6 @@ My goals during the fellowship were the following:
 - Learn methods that use machine learning and understand their utility in answering population health questions.
 - Prepare a policy brief related to one of my recent papers.
 
-{{< gallery album="<cand3>" >}}
+{{< gallery album = "cand3" >}}
 
 
